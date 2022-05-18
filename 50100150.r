@@ -1,6 +1,7 @@
 // This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
 // © weknowLLC
 //@version=5
+
 indicator(title="50,100,150 SMA", shorttitle="SMA3", overlay=true, timeframe="", timeframe_gaps=true)
 len = input.int(50, minval=1, title="Length")
 len2 = input.int(100, minval=1, title="Length")
