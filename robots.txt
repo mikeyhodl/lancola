@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.google.com/sitemap.xml
+Sitemap: https://www.lancolatech.co.ke/sitemap.xml
