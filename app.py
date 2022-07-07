@@ -17,7 +17,7 @@ import threading
 import webbrowser
 from http.server import HTTPServer, SimpleHTTPRequestHandler
 
-host = "localhost"
+host = "127.0.0.1"
 port = 5500
 url = f"http://{host}:{port}"
 
